@@ -1,0 +1,16 @@
+{
+    "batch_size": 24,
+    "accum_steps": 2,
+    "patch_size": 384,
+    "valid_mode": "test",
+    "edge_decay": 0,
+    "only_h_flip": true,
+    "optimizer": "adamw",
+    "lr": 2e-4,
+    "lr_min_ratio": 0.01,
+    "epochs": 1000,
+    "eval_freq": 10,
+    "cr_weight": 0.1,
+    "fft_weight": 0.1,
+    "fft_norm": "backward"
+}
