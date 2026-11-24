@@ -25,7 +25,7 @@ We provide the pretrained models for all datasets and scaling variants evaluated
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/[Your-Username]/EGMix-Net.git
+git clone https://github.com/sdwuysp/EGMix-Net.git
 cd EGMix-Net
 pip install -r requirements.txt
 ```
